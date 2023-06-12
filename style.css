@@ -1,0 +1,8 @@
+body{
+  background-image: url("./Images/background.gif");
+}
+img:hover {
+    overflow: hidden;
+    transform: scale(1.5);
+    transition: 1.5s;
+}
